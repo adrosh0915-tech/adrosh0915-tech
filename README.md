@@ -1,16 +1,27 @@
-## Hi there 👋
+Roshni Singh
 
-<!--
-**adrosh0915-tech/adrosh0915-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate | Software Development | AI Applications
 
-Here are some ideas to get you started:
+Computer Science graduate from the University of Delhi, interested in building practical software solutions and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+- Languages: Python, C++
+- Web: HTML, CSS, JavaScript
+- Database: SQL, MySQL
+- Tools: Git, GitHub, Figma
+
+Projects
+
+MindEase
+A mental wellness web project focused on providing users with a supportive digital experience.
+
+AI Doctor Appointment Website
+A web application that connects users' reported symptoms with relevant doctors to simplify finding appropriate medical care.
+
+API Health Monitor
+A Python-based tool designed to monitor API availability, measure response times, track errors, and log results.
+
+Areas of Interest
+
+Artificial Intelligence · Software Engineering · Web Development
